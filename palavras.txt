@@ -1,0 +1,6 @@
+gato
+cachorro
+elefante
+girafa
+leao
+macaco
